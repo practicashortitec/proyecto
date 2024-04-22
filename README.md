@@ -1,12 +1,12 @@
 # proyecto
+<strong>Versions:</strong><br>
+PHP version: 7.1.32 <br>
+Composer version: 1.10.27 <br>
 
-PHP version: 7.1.32
-Composer version: 1.10.27
+<strong>Proyecto-CMS-Backend </strong> <br>
+php artisan serve <br>
+https://localhost:8000 <br>
 
-Proyecto-CMS-Backend
-php artisan serve
-https://localhost:8000
-
-Proyecto-CMS-Frontend
-npm run dev
-https://localhost:5173
+<strong>Proyecto-CMS-Frontend </strong><br>
+npm run dev <br>
+https://localhost:5173 <br>
